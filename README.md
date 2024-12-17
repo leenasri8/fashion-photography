@@ -1,4 +1,4 @@
 # Fashion_Photography_16-12-2024
 Master the art of crafting compelling landing pages using HTML, CSS &amp; JavaScript!
 
-![image alt](https://github.com/leenasri8/styles.css/blob/386100cc000b1e563c762076bc4b75f0b5ee1094/Title-Image-4_8046668324e19.jpg)
+![image alt](https://github.com/leenasri8/fashion-photography/blob/87b2ac3cf1e3e7ea95be2304a07f4dd66ad12206/header.jpg)
